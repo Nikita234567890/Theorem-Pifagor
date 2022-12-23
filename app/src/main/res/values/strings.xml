@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheoremPifagor</string>
+    <string name="Calculate_c">Calculate "C"</string>
+    <string name="Result">Result: &#160; </string>
+    <string name="SIDE_A">Enter side \"A\"</string>
+    <string name="SIDE_B">Enter side \"B\"</string>
+    <string name="RESULT">Result</string>
+    <string name="Error">Field must be filled</string>
+</resources>
